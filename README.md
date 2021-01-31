@@ -12,13 +12,19 @@ generate links:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106383391-ecf33100-63c5-11eb-96f9-42992e1adb18.png)
 
+write any number to get the link:
+
+
+![immagine](https://user-images.githubusercontent.com/68069659/106389920-38b5d280-63e6-11eb-9c99-1e3bafd409e3.png)
+
 copy and paste the link into your favorite text editor:
 
-![immagine](https://user-images.githubusercontent.com/68069659/106383497-bbc73080-63c6-11eb-8439-b2aad7a83710.png)
+![immagine](https://user-images.githubusercontent.com/68069659/106390138-37d17080-63e7-11eb-82c2-e071b418faa1.png)
 
 replace **viewform?usp=pp_url&entry.987113020=Opzione+1**   with **formResponse?entry.987113020={{payload}}** :
 
-![immagine](https://user-images.githubusercontent.com/68069659/106383645-79522380-63c7-11eb-87cf-d116df86929b.png)
+
+![immagine](https://user-images.githubusercontent.com/68069659/106390176-6b13ff80-63e7-11eb-8cce-d268c85dcc0f.png)
 
 we will need the new link obtained for node red's http request:
 
