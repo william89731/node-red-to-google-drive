@@ -1,6 +1,8 @@
-# Step-1: google-fogli
+# Step-1: google spreadsheet
 
-go to google drive and create a new module:
+![immagine](https://user-images.githubusercontent.com/68069659/106394419-c7354e80-63fc-11eb-8f7c-2c15818dfad4.png)
+
+Go to **google drive** and create a new module:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106382302-ea410d80-63be-11eb-972d-2c2c17c7064f.png)
 
@@ -21,8 +23,7 @@ copy and paste the link into your favorite text editor:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106390138-37d17080-63e7-11eb-82c2-e071b418faa1.png)
 
-replace **viewform?usp=pp_url&entry.987113020=Opzione+1**   with **formResponse?entry.987113020={{payload}}** :
-
+replace **viewform?usp=pp_url&entry.587731667=34**  with  **formResponse?entry.987113020={{payload}}** :
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106390176-6b13ff80-63e7-11eb-8cce-d268c85dcc0f.png)
 
@@ -38,7 +39,13 @@ now we have our chart ready to use:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106384288-54ab7b00-63ca-11eb-8c2b-18292536e6b7.png)
 
-# step2: node red
+# step 2: home assistant
+
+![immagine](https://user-images.githubusercontent.com/68069659/106394496-314df380-63fd-11eb-8162-3c8d8be88af3.png)
+
+
+
+# step3: node red
 
 get  **http request** node, and paste link before create:
 
