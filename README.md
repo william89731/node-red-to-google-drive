@@ -32,7 +32,7 @@ now we have our chart ready to use:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106384288-54ab7b00-63ca-11eb-8c2b-18292536e6b7.png)
 
-#step2: node red
+# step2: node red
 
 get  **http request** node, and paste link before create:
 
@@ -44,7 +44,7 @@ this is the flow for http request:
 
 deploy the flow [here]()
 
-#step3: graphic
+# step3: graphic
 
 
 
