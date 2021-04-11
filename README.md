@@ -1,4 +1,4 @@
-# google sheets-node red
+# Node-RED - google sheets
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106394915-96a2e400-63ff-11eb-9a4c-f2beeb6d3eff.png)
 
