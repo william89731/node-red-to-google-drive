@@ -70,6 +70,8 @@ deploy the flow [here](https://github.com/william89731/google-fogli/blob/main/fl
 
 # step3: graphic
 
+![Screenshot_20210411_181611](https://user-images.githubusercontent.com/68069659/114312179-0b765680-9af2-11eb-9b0e-c7ced657c11a.png)
 
+view your data in an elegant way in [grafana](https://grafana.com/)
 
 
