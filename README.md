@@ -2,7 +2,7 @@
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106394915-96a2e400-63ff-11eb-9a4c-f2beeb6d3eff.png)
 
-
+Save your data in google drive and create graphs to have everything under control
 
 # Step-1: google spreadsheet
 
@@ -47,17 +47,23 @@ now we have our chart ready to use:
 
 
 
-# step: node red
+# step-2: node red
 
-get  **http request** node, and paste link before create:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106384407-fc28ad80-63ca-11eb-87f5-9fcad3e43e04.png)
 
-this is the flow for http request:
+get  **http request** node, and paste link before create
+
+![Screenshot_20210411_180200](https://user-images.githubusercontent.com/68069659/114311733-3495e780-9af0-11eb-8831-e8de83e538c2.png)
+
+ save the data in the global
+
+
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106384484-5e81ae00-63cb-11eb-8d15-126c321f3602.png)
 
 deploy the flow [here]()
+
 
 # step3: graphic
 
