@@ -1,4 +1,4 @@
-# google sheets-node red-home assistant
+# google sheets-node red
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106394915-96a2e400-63ff-11eb-9a4c-f2beeb6d3eff.png)
 
@@ -45,13 +45,9 @@ now we have our chart ready to use:
 
 ![immagine](https://user-images.githubusercontent.com/68069659/106384288-54ab7b00-63ca-11eb-8c2b-18292536e6b7.png)
 
-# step 2: home assistant
-
-![immagine](https://user-images.githubusercontent.com/68069659/106394496-314df380-63fd-11eb-8162-3c8d8be88af3.png)
 
 
-
-# step3: node red
+# step: node red
 
 get  **http request** node, and paste link before create:
 
